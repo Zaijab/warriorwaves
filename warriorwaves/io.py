@@ -2,7 +2,7 @@
 import pandas as pd
 
 '''Class that handles the input of datafiles to standardize io'''
-class IO:
+class WaveIO:
     '''Constructor takes in a filename'''
     def __init__(self,filename):
         self.filename = filename
