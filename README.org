@@ -1,0 +1,5 @@
+#+TITLE: README
+
+* Python Waveform Analysis
+** Currently Works for
+Detectors that sample voltages in time intervals with a time difference file.
